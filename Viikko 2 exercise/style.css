@@ -20,18 +20,21 @@ form input[type="submit"].btn-primary:hover {
 
 .navbar-nav .nav-link:hover {
     color: #ff5722; 
+    background-color: #f8f9fa;
 }
 
 .nav-link.active {
     color: #007bff; 
     font-weight: bold; 
     
-    border-radius: 5px; 
+    border-radius: 50px; 
 }
 
 
   .card-spacing {
-    margin-right: 30px;
+    
+    margin-left: 30px;
+    
     
   }
 
