@@ -1,2 +1,2 @@
-# wohi-test2 JanielHuotari 2024
+# wohi-test2 Janiel Huotari 2024
 Trying git in class
